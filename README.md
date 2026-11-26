@@ -11,3 +11,7 @@ Every number published here is measured by us on real hardware. No vendor figure
 ## Evaluation
 
 A 30-day evaluation license is available: [Evaluation](https://site-ai-gateway.com/en/solutions/evaluation/)
+
+## Data
+
+[measurements.md](measurements.md) — seed table republished from our site articles; full tables follow.
